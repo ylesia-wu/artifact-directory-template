@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/ylesia-wu/artifact-directory-template",
+    "project-repository": "https://github.com/zoeludena/SeeRise",
+    "project-website-url": "https://zoeludena.github.io/SeeRiseWebsite/",
+    "project-website-code": "https://github.com/zoeludena/SeeRiseWebsite"
 }
